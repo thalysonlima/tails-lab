@@ -36,6 +36,10 @@ nav li a:hover {
     color: black;
 }
 
+pre a {
+    text-decoration: none;
+}
+
 main {
     margin-bottom: 30px;
 }
@@ -46,6 +50,10 @@ main p {
 
 p a:hover {
     color: black;
+}
+
+a href {
+    color: blueviolet;
 }
 
 footer a {
@@ -62,11 +70,11 @@ footer p {
 }
 
 .green {
-    color: rgb(8, 59, 8);
+    color: rgb(50, 140, 50);
 }
 
 .red {
-    color: rgb(139, 16, 16);
+    color: tomato;
 }
 
 .link-site-dark-net {
